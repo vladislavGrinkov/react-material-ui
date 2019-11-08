@@ -1,0 +1,23 @@
+.center{
+    font-family: 'Raleway', sans-serif;
+    background-color: #8110bc;
+    flex-grow: 1;
+    flex-direction: column;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-submit{
+    font-family: 'Raleway', sans-serif;
+    height: 35px;
+    color: #fff;
+    background-color: rgba(129, 16, 188, 0.7);
+    border: none;
+    letter-spacing: 0.2rem;
+    transition: 0.3s opacity ease;
+    cursor: pointer;
+}
